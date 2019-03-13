@@ -1,3 +1,5 @@
+package beckjoon;
+
 import java.util.Scanner;
 
 public class BeckJoon2750 {

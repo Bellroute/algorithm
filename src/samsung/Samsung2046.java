@@ -1,3 +1,5 @@
+package samsung;
+
 import java.util.Scanner;
 
 public class Samsung2046 {
