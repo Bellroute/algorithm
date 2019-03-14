@@ -7,22 +7,14 @@ public class BeckJoon2292 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int input = scanner.nextInt();
+        int n = 1;
+        int c = 1;
 
-        if (input != 1) {
-            input = (input - 1) / 6 + 1;
-
-            int n = 1;
-
-            while (n * (n - 1) != input * 2) {
-                n++;
-            }
-
-            System.out.println(n);
-
-        } else {
-            System.out.println(0);
+        while (input > n) {
+            n += 6 * c;
+            c++;
         }
 
-
+        System.out.println(c);
     }
 }
