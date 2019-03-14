@@ -17,14 +17,10 @@ public class BeckJoon1193 {
         int c = input - n * (n - 1) / 2;
 
         if (n % 2 == 1) {
-            for (int i = 0; i < c; i++) {
-                result = (n - i) + "/" + (1 + i);
-            }
+            result = (n - c + 1) + "/" + c;
         }
         if (n % 2 == 0) {
-            for (int i = 0; i < c; i++) {
-                result = (1 + i) + "/" + (n - i);
-            }
+            result = c + "/" + (n - c + 1);
         }
 
         if (input == 1) {
