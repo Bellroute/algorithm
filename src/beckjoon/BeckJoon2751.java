@@ -15,6 +15,8 @@ public class BeckJoon2751 {
 
         for (int i = N; i > 0; i--) {
             heap(numbers, i);
+            System.out.println(numbers[0]);
+            numbers[0] = numbers[N -1];
         }
 
         for (int i = 1; i < numbers.length; i++) {
