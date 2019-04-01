@@ -2,7 +2,7 @@ package beckjoon;
 
 import java.util.Scanner;
 
-public class BeckJoon10789 {
+public class BeckJoon10798 {
     private static Scanner scanner = new Scanner(System.in);
     private static char[][] box = new char[7][17];
     private static String[] inputs = new String[7];
