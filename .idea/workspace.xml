@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0f92364-52e2-4a20-b274-6d59ecbd6e31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b0f92364-52e2-4a20-b274-6d59ecbd6e31" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,11 +59,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon11399.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon2309.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -145,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/samsung/Samsung.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BeckJoon2178.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon2667.java" />
-        <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon2309.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon10809.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1913.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon10998.java" />
@@ -153,6 +159,7 @@
         <option value="$PROJECT_DIR$/src/beckjoon/boostcamp.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/Solution.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon11399.java" />
+        <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon2309.java" />
       </list>
     </option>
   </component>
@@ -205,7 +212,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562507454669" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562508487935" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -225,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BaekJoon11399">
+  <component name="RunManager" selected="Application.BaekJoon2309">
     <configuration name="BaekJoon10998" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon10998" />
       <module name="algorithm" />
@@ -265,8 +272,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekJoon1913" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon1913" />
+    <configuration name="BaekJoon2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon2309" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -293,11 +300,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekJoon2309" />
         <item itemvalue="Application.BaekJoon11399" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.BaekJoon11047" />
         <item itemvalue="Application.BaekJoon10998" />
-        <item itemvalue="Application.BaekJoon1913" />
       </list>
     </recent_temporary>
   </component>
@@ -345,12 +352,12 @@
       <workItem from="1562307679329" duration="83000" />
       <workItem from="1562335945050" duration="3949000" />
       <workItem from="1562385497014" duration="1536000" />
-      <workItem from="1562506208047" duration="1042000" />
+      <workItem from="1562506208047" duration="1900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103917000" />
+    <option name="totallyTimeSpent" value="104775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -528,7 +535,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon14889.java" />
     <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon1158.java" />
-    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon2309.java" />
     <entry file="file://$PROJECT_DIR$/src/beckjoon/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon2667.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -591,8 +597,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon11399.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon2309.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
         </state>
       </provider>
     </entry>
