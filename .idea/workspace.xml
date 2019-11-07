@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0f92364-52e2-4a20-b274-6d59ecbd6e31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/programmers/kakao/blindRecruitment2018/Level2_Cache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/programmers/kakao/blindRecruitment2018/Level2_Cache.class" afterDir="false" />
-    </list>
+    <list default="true" id="b0f92364-52e2-4a20-b274-6d59ecbd6e31" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,14 +71,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level1_FailureRate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="965">
-              <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+            <state relative-caret-position="18">
+              <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_Friends4Blocks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
         </entry>
@@ -110,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/beckjoon/BeckJoon2220.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BeckJoon1181.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BeckJoon11897.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BeakJoon10988.java" />
@@ -161,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_Cache.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level3_SuttleBus.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level1_FailureRate.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_Friends4Blocks.java" />
       </list>
     </option>
   </component>
@@ -206,6 +213,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="kakao" type="462c0819:PsiDirectoryNode" />
+              <item name="blindRecruitment2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao" type="462c0819:PsiDirectoryNode" />
+              <item name="blindRecruitment2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao" type="462c0819:PsiDirectoryNode" />
               <item name="blindRecruitment2020" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -222,7 +245,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573049680340" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573059680256" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -243,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Level1_FailureRate">
+  <component name="RunManager" selected="Application.Level2_Friends4Blocks">
     <configuration name="Level1_FailureRate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2019.Level1_FailureRate" />
       <module name="algorithm" />
@@ -296,12 +319,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.winterCoding2019.Q1" />
+    <configuration name="Level2_Friends4Blocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2018.Level2_Friends4Blocks" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.winterCoding2019.*" />
+          <option name="PATTERN" value="programmers.kakao.blindRecruitment2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,11 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Level2_Friends4Blocks" />
         <item itemvalue="Application.Level1_FailureRate" />
         <item itemvalue="Application.Level2_Cache" />
         <item itemvalue="Application.Level1_SecretMap" />
         <item itemvalue="Application.Level1_StringCompression" />
-        <item itemvalue="Application.Q1" />
       </list>
     </recent_temporary>
   </component>
@@ -374,12 +397,12 @@
       <workItem from="1563520316574" duration="1320000" />
       <workItem from="1570806221040" duration="10823000" />
       <workItem from="1572051260974" duration="5098000" />
-      <workItem from="1572868476539" duration="19238000" />
+      <workItem from="1572868476539" duration="24431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172825000" />
+    <option name="totallyTimeSpent" value="178018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -455,13 +478,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/beckjoon/BeckJoon2292.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/beckjoon/BeckJoon1427.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -830,11 +846,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level1_FailureRate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="965">
-          <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        <state relative-caret-position="18">
+          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_Friends4Blocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
