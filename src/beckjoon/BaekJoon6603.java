@@ -5,6 +5,8 @@ import java.util.List;
 import java.util.Scanner;
 
 public class BaekJoon6603 {
+    private static int[] numbers;
+    private static int depth;
     private static List<String> results = new ArrayList<>();
 
     public static void main(String[] args) {
@@ -15,16 +17,18 @@ public class BaekJoon6603 {
 
             if (k == 0) {
                 break;
-            }
+            } else {
+                numbers = new int[k];
 
-            int[] numbers = new int[k];
+                for (int i = 0; i < k; i++) {
+                    numbers[i] = scanner.nextInt();
+                }
 
-            for (int i = 0; i < k; i++) {
-                numbers[i] = scanner.nextInt();
-            }
+                for (int i = 0; i < k; i++) {
+                    depth = 1;
+                    backtracking(i, numbers[i] + " ");
+                }
 
-            for (int i = k - 1; i >= 0; i--) {
-                backtracking(numbers, 0, 0, i, new StringBuilder());
             }
 
             results.add("");
@@ -35,21 +39,16 @@ public class BaekJoon6603 {
         }
     }
 
-    private static void backtracking(int[] numbers, int count, int now, int index, StringBuilder result) {
-        System.out.println("count: " + count);
-        System.out.println("now: " + now);
-
-        if (count < 6) {
-            if (now != index) {
-                result.append(numbers[now] + " ");
-            }
-
-            for (int i = now + 1; i < numbers.length; i++) {
-                backtracking(numbers, count + 1, i, index, result);
-            }
-
+    private static void backtracking(int start, String result) {
+        if (depth == 6) {
+            results.add(result.trim());
         } else {
-            results.add(result.toString().trim());
+            for (int i = start + 1; i < numbers.length; i++) {
+                depth++;
+                backtracking(i, result + numbers[i] + " ");
+            }
+
         }
+        --depth;
     }
 }
