@@ -10,8 +10,7 @@ public class BaekJoon2206 {
     private static int N;
     private static int M;
     private static int[][] map;
-    private static int[][] isVisited;
-    private static int result;
+    private static boolean[][][] isVisited;
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -19,74 +18,68 @@ public class BaekJoon2206 {
         N = scanner.nextInt();
         M = scanner.nextInt();
         map = new int[N + 1][M + 1];
-        isVisited = new int[N + 1][M + 1];
+        isVisited = new boolean[N + 1][M + 1][2];
 
         scanner.nextLine();
         for (int i = 1; i <= N; i++) {
-            String input = scanner.nextLine();
+            String[] input = scanner.nextLine().split("");
             for (int j = 1; j <= M; j++) {
-                map[i][j] = Integer.parseInt(input.split("")[j - 1]);
-                isVisited[i][j] = Integer.MAX_VALUE;
+                map[i][j] = Integer.parseInt(input[j - 1]);
             }
         }
 
-        result = Integer.MAX_VALUE;
         bfs(1, 1);
-
-        if (result == Integer.MAX_VALUE)  {
-            System.out.println(-1);
-        } else {
-            System.out.println(result);
-        }
     }
 
     private static void bfs(int px, int py) {
         Queue<Point> queue = new LinkedList<>();
 
         queue.add(new Point(px, py, 1, 0));
-        isVisited[px][py] = 0;
+        isVisited[px][py][0] = true;
+        isVisited[px][py][1] = true;
 
         while (!queue.isEmpty()) {
             Point point = queue.poll();
 
             if (point.px == N && point.py == M) {
-                result = point.depth;
-                break;
+                System.out.println(point.depth);
+                return;
             }
 
             for (int i = 0; i < 4; i++) {
                 int newX = point.px + x[i];
                 int newY = point.py + y[i];
 
-                if (newX > N || newX <= 0 || newY > M || newY <= 0) continue;
-
-                if (isVisited[newX][newY] <= point.isAbleBreakWall) continue;
-
-                if (map[newX][newY] == 0) {
-                    isVisited[newX][newY] = point.isAbleBreakWall;
-                    queue.add(new Point(newX, newY, point.depth + 1, point.isAbleBreakWall));
-                } else {
-                    if (point.isAbleBreakWall == 0) {
-                        isVisited[newX][newY] = point.isAbleBreakWall + 1;
-                        queue.add(new Point(newX, newY, point.depth + 1, point.isAbleBreakWall + 1));
+                if (newX > 0 && newX <= N && newY > 0 && newY <= M) {
+                    if (map[newX][newY] == 1) {
+                        if (point.used == 0 && !isVisited[newX][newY][1]) {
+                            queue.add(new Point(newX, newY, point.depth + 1, 1));
+                            isVisited[newX][newY][1] = true;
+                        }
+                    } else {
+                        if (!isVisited[newX][newY][point.used]) {
+                            queue.add(new Point(newX, newY, point.depth + 1, point.used));
+                            isVisited[newX][newY][point.used] = true;
+                        }
                     }
                 }
-
             }
         }
+
+        System.out.println(-1);
     }
 
     private static class Point {
         private int px;
         private int py;
         private int depth;
-        private int isAbleBreakWall;
+        private int used;
 
-        Point(int x, int y, int depth, int isAbleBreakWall) {
+        Point(int x, int y, int depth, int used) {
             this.px = x;
             this.py = y;
             this.depth = depth;
-            this.isAbleBreakWall = isAbleBreakWall;
+            this.used = used;
         }
     }
 }
