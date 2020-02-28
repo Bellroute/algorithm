@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b0f92364-52e2-4a20-b274-6d59ecbd6e31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/beckjoon/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/beckjoon/test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon7569.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="87" column="65" selection-start-line="87" selection-start-column="65" selection-end-line="87" selection-end-column="65" />
+            <state relative-caret-position="-936">
+              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,18 +32,31 @@
         <entry file="file://$PROJECT_DIR$/src/beckjoon/test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon9466.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-936">
+              <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon9466.java">
+        <entry file="file://$PROJECT_DIR$/src/beckjoon/BeakJoon2636.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="36" column="42" lean-forward="true" selection-end-line="117" />
+            <state relative-caret-position="488">
+              <caret line="67" column="42" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3808#3809#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/etc/CardGame.java" />
         <option value="$PROJECT_DIR$/src/etc/NumberGame.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon2096.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1946.java" />
@@ -117,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon7569.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/test.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon9466.java" />
+        <option value="$PROJECT_DIR$/src/beckjoon/BeakJoon2636.java" />
       </list>
     </option>
   </component>
@@ -130,6 +142,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,8 +177,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,14 +186,14 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582704495840" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582867235403" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,20 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BaekJoon9466">
-    <configuration name="BaekJoon2206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon2206" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beckjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BeakJoon2636">
     <configuration name="BaekJoon7569" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon7569" />
       <module name="algorithm" />
@@ -248,6 +247,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BeakJoon2636" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beckjoon.BeakJoon2636" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beckjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beckjoon.test" />
       <module name="algorithm" />
@@ -263,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BeakJoon2636" />
         <item itemvalue="Application.BaekJoon9466" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.BaekJoon7569" />
         <item itemvalue="Application.BaekJoon7576" />
-        <item itemvalue="Application.BaekJoon2206" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +371,9 @@
       <workItem from="1582592592747" duration="2285000" />
       <workItem from="1582616046450" duration="2192000" />
       <workItem from="1582624463350" duration="1479000" />
-      <workItem from="1582696153721" duration="6391000" />
+      <workItem from="1582696153721" duration="7130000" />
+      <workItem from="1582720911512" duration="1393000" />
+      <workItem from="1582855746039" duration="4959000" />
     </task>
     <servers />
   </component>
@@ -396,13 +410,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="416156000" />
+    <option name="totallyTimeSpent" value="423247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25152627" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25763127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -474,13 +488,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/beckjoon/BeckJoon1427.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon11650.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -886,10 +893,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon7569.java">
+    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon9466.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="87" column="65" selection-start-line="87" selection-start-column="65" selection-end-line="87" selection-end-column="65" />
+        <state relative-caret-position="-936">
+          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -899,16 +906,27 @@
     <entry file="file://$PROJECT_DIR$/src/beckjoon/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon9466.java">
+    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon7569.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="36" column="42" lean-forward="true" selection-end-line="117" />
+        <state relative-caret-position="-936">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beckjoon/BeakJoon2636.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="67" column="42" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3808#3809#0" expanded="true" />
           </folding>
         </state>
       </provider>
