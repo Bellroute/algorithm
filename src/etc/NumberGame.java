@@ -38,7 +38,7 @@ public class NumberGame {
     public static void main(String[] args) {
         try {
             Scanner sc = new Scanner(new File("/Users/bellroot/Desktop/131_numbers.txt"));
-            int T = sc.nextInt();    // # of test case
+            int T = sc.nextInt();    // # of Main case
 
             long st = System.currentTimeMillis();
 
