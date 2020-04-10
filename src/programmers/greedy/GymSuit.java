@@ -1,4 +1,4 @@
-package programmers.dfs_and_bfs;
+package programmers.greedy;
 
 import java.util.Arrays;
 
