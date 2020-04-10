@@ -17,18 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/beckjoon/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="71" column="47" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon2805.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="615">
@@ -88,11 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/Network.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+            <state relative-caret-position="435">
+              <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/GymSuit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -132,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon6603.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1182.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon9095.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon9663.java" />
@@ -183,6 +179,7 @@
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level2_CandidateKey.java" />
         <option value="$PROJECT_DIR$/src/programmers/dfs_and_bfs/TargetNumber.java" />
         <option value="$PROJECT_DIR$/src/programmers/dfs_and_bfs/Network.java" />
+        <option value="$PROJECT_DIR$/src/programmers/dfs_and_bfs/GymSuit.java" />
       </list>
     </option>
   </component>
@@ -268,7 +265,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586496716677" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586499548047" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -289,13 +286,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Network">
-    <configuration name="BaekJoon2869" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon2869" />
+  <component name="RunManager" selected="Application.GymSuit">
+    <configuration name="GymSuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.dfs_and_bfs.GymSuit" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="beckjoon.*" />
+          <option name="PATTERN" value="programmers.dfs_and_bfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,11 +354,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GymSuit" />
         <item itemvalue="Application.Network" />
         <item itemvalue="Application.TargetNumber" />
         <item itemvalue="Application.Level2_CandidateKey" />
         <item itemvalue="Application.Level2_OpenChattingRoom" />
-        <item itemvalue="Application.BaekJoon2869" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +468,7 @@
       <workItem from="1585928181154" duration="6006000" />
       <workItem from="1586348899894" duration="5306000" />
       <workItem from="1586408520923" duration="1400000" />
-      <workItem from="1586492795334" duration="3823000" />
+      <workItem from="1586492795334" duration="5507000" />
     </task>
     <servers />
   </component>
@@ -508,7 +505,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="488747000" />
+    <option name="totallyTimeSpent" value="490431000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -595,13 +592,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon5555.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon6588.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
@@ -1008,8 +998,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/Network.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        <state relative-caret-position="435">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/GymSuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
