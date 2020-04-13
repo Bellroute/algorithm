@@ -16,11 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/hash/PhoneNumberList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/programmers/brouteforce/MockExam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon15686.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon2839.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon2661.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon2580.java" />
@@ -98,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/naverHackday/summer2020/Test2.java" />
         <option value="$PROJECT_DIR$/src/naverHackday/summer2020/Test3.java" />
         <option value="$PROJECT_DIR$/src/programmers/hash/PhoneNumberList.java" />
+        <option value="$PROJECT_DIR$/src/programmers/brouteforce/MockExam.java" />
       </list>
     </option>
   </component>
@@ -111,7 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,6 +212,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,7 +222,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586676240295" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586765358007" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -231,13 +243,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test3">
-    <configuration name="GymSuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.greedy.GymSuit" />
+  <component name="RunManager" selected="Application.MockExam">
+    <configuration name="MockExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.brouteforce.MockExam" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.greedy.*" />
+          <option name="PATTERN" value="programmers.brouteforce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MockExam" />
         <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.UnCompletion" />
-        <item itemvalue="Application.GymSuit" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +426,8 @@
       <workItem from="1586348899894" duration="5306000" />
       <workItem from="1586408520923" duration="1400000" />
       <workItem from="1586492795334" duration="13295000" />
-      <workItem from="1586670677979" duration="2357000" />
+      <workItem from="1586670677979" duration="2629000" />
+      <workItem from="1586763671135" duration="1552000" />
     </task>
     <servers />
   </component>
@@ -451,7 +464,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="500576000" />
+    <option name="totallyTimeSpent" value="502400000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -466,7 +479,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31379732" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31746033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -538,13 +551,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon1003.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon1149.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -958,8 +964,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/hash/PhoneNumberList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/brouteforce/MockExam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
