@@ -17,15 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/line/P5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/line/P6.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -73,7 +64,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/BlockGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="810">
               <caret line="54" column="46" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
               <folding>
                 <element signature="e#2643#2644#0" expanded="true" />
@@ -89,18 +80,34 @@
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_SecretMap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Traffic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Traffic.java">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/AutoComplete.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+            <state relative-caret-position="824">
+              <caret line="121" column="35" lean-forward="true" selection-start-line="121" selection-start-column="35" selection-end-line="121" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
+                <element signature="e#1434#1435#0" expanded="true" />
+                <element signature="e#1462#1463#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -146,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon2156.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon11052.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon11057.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1931.java" />
@@ -197,6 +203,7 @@
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/ThatSong.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/BlockGame.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Traffic.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/AutoComplete.java" />
       </list>
     </option>
   </component>
@@ -210,8 +217,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -297,6 +302,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -306,7 +313,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588401637598" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588776462008" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -327,35 +334,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Traffic">
+  <component name="RunManager" selected="JUnit.AutoComplete">
     <configuration name="BlockGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2019.BlockGame" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.kakao.blindRecruitment2019.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HotelRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao.winterIntership2019.HotelRoom" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.kakao.winterIntership2019.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RoadSearching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2019.RoadSearching" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -393,13 +374,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AutoComplete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.kakao.blindRecruitment2018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programmers.kakao.blindRecruitment2018" />
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2018.AutoComplete" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoComplete.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.kakao.blindRecruitment2018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programmers.kakao.blindRecruitment2018" />
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2018.AutoComplete" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AutoComplete" />
+        <item itemvalue="JUnit.AutoComplete.test" />
         <item itemvalue="Application.Traffic" />
         <item itemvalue="Application.BlockGame" />
         <item itemvalue="Application.ThatSong" />
-        <item itemvalue="Application.RoadSearching" />
-        <item itemvalue="Application.HotelRoom" />
       </list>
     </recent_temporary>
   </component>
@@ -524,44 +536,45 @@
       <workItem from="1588036254796" duration="17323000" />
       <workItem from="1588208767234" duration="9182000" />
       <workItem from="1588297010318" duration="6571000" />
-      <workItem from="1588381768757" duration="3880000" />
+      <workItem from="1588381768757" duration="4849000" />
+      <workItem from="1588744261044" duration="7384000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="q5_test - 2019.11.09 at 17h 34m 50s.xml">
-      <configuration name="q5.test" configurationId="JUnit" />
+    <history-entry file="AutoComplete - 2020.05.06 at 23h 35m 08s.xml">
+      <configuration name="AutoComplete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="q5_test - 2019.11.09 at 17h 47m 12s.xml">
-      <configuration name="q5.test" configurationId="JUnit" />
+    <history-entry file="AutoComplete - 2020.05.06 at 23h 35m 23s.xml">
+      <configuration name="AutoComplete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="q5_test - 2019.11.09 at 17h 47m 40s.xml">
-      <configuration name="q5.test" configurationId="JUnit" />
+    <history-entry file="AutoComplete - 2020.05.06 at 23h 35m 32s.xml">
+      <configuration name="AutoComplete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="q5_test - 2019.11.09 at 17h 48m 08s.xml">
-      <configuration name="q5.test" configurationId="JUnit" />
+    <history-entry file="AutoComplete - 2020.05.06 at 23h 37m 58s.xml">
+      <configuration name="AutoComplete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="q5_test - 2019.11.09 at 17h 48m 24s.xml">
-      <configuration name="q5.test" configurationId="JUnit" />
+    <history-entry file="AutoComplete - 2020.05.06 at 23h 38m 25s.xml">
+      <configuration name="AutoComplete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="q5_test - 2019.11.09 at 17h 50m 52s.xml">
-      <configuration name="q5.test" configurationId="JUnit" />
+    <history-entry file="AutoComplete - 2020.05.06 at 23h 38m 35s.xml">
+      <configuration name="AutoComplete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="q5_test - 2019.11.09 at 17h 54m 49s.xml">
-      <configuration name="q5.test" configurationId="JUnit" />
+    <history-entry file="AutoComplete - 2020.05.06 at 23h 38m 48s.xml">
+      <configuration name="AutoComplete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="q5_test - 2019.11.09 at 17h 54m 55s.xml">
-      <configuration name="q5.test" configurationId="JUnit" />
+    <history-entry file="AutoComplete - 2020.05.06 at 23h 39m 46s.xml">
+      <configuration name="AutoComplete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="q5_test - 2019.11.09 at 17h 54m 59s.xml">
-      <configuration name="q5.test" configurationId="JUnit" />
+    <history-entry file="AutoComplete - 2020.05.06 at 23h 41m 40s.xml">
+      <configuration name="AutoComplete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="q5_test - 2019.11.09 at 17h 56m 00s.xml">
-      <configuration name="q5.test" configurationId="JUnit" />
+    <history-entry file="AutoComplete - 2020.05.06 at 23h 41m 51s.xml">
+      <configuration name="AutoComplete" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="583495000" />
+    <option name="totallyTimeSpent" value="591848000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -576,7 +589,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24175824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24481075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -648,16 +661,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon2217.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2424">
@@ -1004,6 +1007,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/BlockGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="46" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
+          <folding>
+            <element signature="e#2643#2644#0" expanded="true" />
+            <element signature="e#2688#2689#0" expanded="true" />
+            <element signature="e#2744#2745#0" expanded="true" />
+            <element signature="e#2789#2790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_SecretMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/line/P3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1018,32 +1041,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/BlockGame.java">
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Traffic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="54" column="46" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
+        <state relative-caret-position="15">
+          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
           <folding>
-            <element signature="e#2643#2644#0" expanded="true" />
-            <element signature="e#2688#2689#0" expanded="true" />
-            <element signature="e#2744#2745#0" expanded="true" />
-            <element signature="e#2789#2790#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_SecretMap.java">
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/AutoComplete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Traffic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        <state relative-caret-position="824">
+          <caret line="121" column="35" lean-forward="true" selection-start-line="121" selection-start-column="35" selection-end-line="121" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1462#1463#0" expanded="true" />
           </folding>
         </state>
       </provider>
