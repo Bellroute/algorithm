@@ -17,15 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_SecretMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/AutoComplete.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
@@ -49,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/swm/Q2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+            <state relative-caret-position="-20">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -58,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/summerinternship2020/P1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="450">
               <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -67,11 +58,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon1717.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+            <state relative-caret-position="840">
+              <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/AbusingUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="58" column="34" lean-forward="true" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/beckjoon/test.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/Main.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon2805.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1654.java" />
@@ -194,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/programmers/kakao/summerinternship2020/P3.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/summerinternship2020/P2.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1717.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/AbusingUser.java" />
       </list>
     </option>
   </component>
@@ -207,6 +210,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,12 +223,6 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="beckjoon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -315,8 +314,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,7 +323,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589355505913" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589456938725" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -347,7 +344,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BaekJoon1717">
+  <component name="RunManager" selected="JUnit.AbusingUser">
     <configuration name="BaekJoon1717" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon1717" />
       <module name="algorithm" />
@@ -361,16 +358,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AutoComplete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AbusingUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.kakao.blindRecruitment2018.*" />
+          <option name="PATTERN" value="programmers.kakao.winterIntership2019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="programmers.kakao.blindRecruitment2018" />
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2018.AutoComplete" />
+      <option name="PACKAGE_NAME" value="programmers.kakao.winterIntership2019" />
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao.winterIntership2019.AbusingUser" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -425,11 +422,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AbusingUser" />
         <item itemvalue="Application.BaekJoon1717" />
         <item itemvalue="JUnit.P2" />
         <item itemvalue="JUnit.P2.test" />
         <item itemvalue="JUnit.P1.test" />
-        <item itemvalue="JUnit.AutoComplete" />
       </list>
     </recent_temporary>
   </component>
@@ -558,44 +555,45 @@
       <workItem from="1588744261044" duration="8596000" />
       <workItem from="1588829914873" duration="1452000" />
       <workItem from="1588944433205" duration="11906000" />
-      <workItem from="1589353536300" duration="1622000" />
+      <workItem from="1589353536300" duration="2091000" />
+      <workItem from="1589438695508" duration="7777000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="P2 - 2020.05.09 at 17h 28m 00s.xml">
-      <configuration name="P2" configurationId="JUnit" />
+    <history-entry file="AbusingUser - 2020.05.14 at 20h 38m 02s.xml">
+      <configuration name="AbusingUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P2 - 2020.05.09 at 17h 28m 28s.xml">
-      <configuration name="P2" configurationId="JUnit" />
+    <history-entry file="AbusingUser - 2020.05.14 at 20h 38m 45s.xml">
+      <configuration name="AbusingUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P2 - 2020.05.09 at 17h 30m 57s.xml">
-      <configuration name="P2" configurationId="JUnit" />
+    <history-entry file="AbusingUser - 2020.05.14 at 20h 39m 20s.xml">
+      <configuration name="AbusingUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P2 - 2020.05.09 at 17h 33m 07s.xml">
-      <configuration name="P2" configurationId="JUnit" />
+    <history-entry file="AbusingUser - 2020.05.14 at 20h 40m 21s.xml">
+      <configuration name="AbusingUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P2 - 2020.05.09 at 17h 33m 31s.xml">
-      <configuration name="P2" configurationId="JUnit" />
+    <history-entry file="AbusingUser - 2020.05.14 at 20h 42m 38s.xml">
+      <configuration name="AbusingUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P2 - 2020.05.09 at 17h 36m 04s.xml">
-      <configuration name="P2" configurationId="JUnit" />
+    <history-entry file="AbusingUser - 2020.05.14 at 20h 44m 06s.xml">
+      <configuration name="AbusingUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P2 - 2020.05.09 at 17h 37m 15s.xml">
-      <configuration name="P2" configurationId="JUnit" />
+    <history-entry file="AbusingUser - 2020.05.14 at 20h 44m 32s.xml">
+      <configuration name="AbusingUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P2 - 2020.05.09 at 17h 37m 33s.xml">
-      <configuration name="P2" configurationId="JUnit" />
+    <history-entry file="AbusingUser - 2020.05.14 at 20h 44m 55s.xml">
+      <configuration name="AbusingUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P2 - 2020.05.09 at 17h 46m 35s.xml">
-      <configuration name="P2" configurationId="JUnit" />
+    <history-entry file="AbusingUser - 2020.05.14 at 20h 45m 57s.xml">
+      <configuration name="AbusingUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P2 - 2020.05.09 at 17h 46m 52s.xml">
-      <configuration name="P2" configurationId="JUnit" />
+    <history-entry file="AbusingUser - 2020.05.14 at 20h 46m 22s.xml">
+      <configuration name="AbusingUser" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="608040000" />
+    <option name="totallyTimeSpent" value="616286000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -610,7 +608,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25396827" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25702077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -624,7 +622,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" weight="0.3510204" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" weight="0.33469388" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.40612245" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32959184" />
@@ -682,13 +680,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon2869.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level2_OpenChattingRoom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
@@ -1030,10 +1021,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/swm/Q2.java">
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/summerinternship2020/P1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+        <state relative-caret-position="450">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1071,20 +1065,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/summerinternship2020/P1.java">
+    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon1717.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="840">
+          <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon1717.java">
+    <entry file="file://$PROJECT_DIR$/src/swm/Q2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+        <state relative-caret-position="-20">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/AbusingUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="58" column="34" lean-forward="true" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
