@@ -40,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon1717.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
+            <state relative-caret-position="532">
               <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
             </state>
           </provider>
@@ -49,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/AbusingUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="345">
               <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -58,20 +58,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/hash/BestAlbum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="58" lean-forward="true" selection-end-line="110" />
+            <state relative-caret-position="216">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#712#713#0" expanded="true" />
-                <element signature="e#801#802#0" expanded="true" />
-                <element signature="e#828#829#0" expanded="true" />
-                <element signature="e#1510#1511#0" expanded="true" />
-                <element signature="e#1534#1535#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon1976.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -143,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1654.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon2869.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level2_OpenChattingRoom.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level2_CandidateKey.java" />
@@ -194,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/AbusingUser.java" />
         <option value="$PROJECT_DIR$/src/programmers/hash/Album.java" />
         <option value="$PROJECT_DIR$/src/programmers/hash/BestAlbum.java" />
+        <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1976.java" />
       </list>
     </option>
   </component>
@@ -218,6 +221,12 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="beckjoon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -310,8 +319,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -321,7 +330,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589641121023" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589720546505" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -347,9 +356,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BestAlbum">
+  <component name="RunManager" selected="Application.BaekJoon1976">
     <configuration name="BaekJoon1717" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon1717" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beckjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaekJoon1976" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon1976" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -407,28 +429,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.kakao.summerinternship2020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programmers.kakao.summerinternship2020" />
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao.summerinternship2020.P2" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekJoon1976" />
         <item itemvalue="JUnit.BestAlbum" />
         <item itemvalue="JUnit.BestAlbum.test" />
         <item itemvalue="JUnit.AbusingUser" />
         <item itemvalue="Application.BaekJoon1717" />
-        <item itemvalue="JUnit.P2" />
       </list>
     </recent_temporary>
   </component>
@@ -559,17 +566,13 @@
       <workItem from="1588944433205" duration="11906000" />
       <workItem from="1589353536300" duration="2091000" />
       <workItem from="1589438695508" duration="8604000" />
-      <workItem from="1589639084353" duration="2031000" />
+      <workItem from="1589639084353" duration="5062000" />
+      <workItem from="1589717634186" duration="4000" />
+      <workItem from="1589718397375" duration="2123000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AbusingUser - 2020.05.14 at 20h 44m 55s.xml">
-      <configuration name="AbusingUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AbusingUser - 2020.05.14 at 20h 45m 57s.xml">
-      <configuration name="AbusingUser" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AbusingUser - 2020.05.14 at 20h 46m 22s.xml">
       <configuration name="AbusingUser" configurationId="JUnit" />
     </history-entry>
@@ -594,9 +597,15 @@
     <history-entry file="BestAlbum - 2020.05.16 at 23h 56m 10s.xml">
       <configuration name="BestAlbum" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BestAlbum - 2020.05.16 at 23h 57m 50s.xml">
+      <configuration name="BestAlbum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BestAlbum - 2020.05.16 at 23h 58m 20s.xml">
+      <configuration name="BestAlbum" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="619144000" />
+    <option name="totallyTimeSpent" value="624302000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -611,7 +620,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26007327" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26617828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -683,13 +692,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/naverHackday/summer2020/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/naverHackday/summer2020/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1004,6 +1006,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/hash/Album.java" />
     <entry file="file://$PROJECT_DIR$/src/swm/Q2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1018,13 +1021,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon1717.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -1062,9 +1058,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/hash/BestAlbum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/AbusingUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="345">
           <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1072,26 +1078,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/hash/Album.java">
+    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon1717.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="532">
+          <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/hash/BestAlbum.java">
+    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon1976.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="58" lean-forward="true" selection-end-line="110" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-            <element signature="e#801#802#0" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#1510#1511#0" expanded="true" />
-            <element signature="e#1534#1535#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="48">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
         </state>
       </provider>
     </entry>
