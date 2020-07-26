@@ -36,9 +36,11 @@ public class P1 {
                 for (int j = i + 1; j < expressionSplit.length; j++) {
                     if (expressionSplit[j] >= '0' && expressionSplit[j] <= '9') {
                         parsedExpression = parse(newExpression + expression.substring(i, j + 1) + ")" + expression.substring(j + 1));
+                        System.out.println("parsedExpression: " + parsedExpression);
 
                         if (parsedExpression != null) {
                             result = calculate(postfix(parsedExpression));
+                            System.out.println("result: " + result);
                             if (result != null) {
                                 if (result.endsWith("-0")) {
                                     result = result.replace("-0", "0");
@@ -132,6 +134,11 @@ public class P1 {
         Stack<String> stack = new Stack<>();
 
         for (String element : expression) {
+            for (String str : result) {
+                System.out.print(str + " ");
+            }
+            System.out.println();
+
             if (getType(element) == NUM)
                 result.add(element);
             else if (getType(element) == LEFT) {
@@ -173,18 +180,23 @@ public class P1 {
 
             if (getType(element) == NUM) {
                 stack.push(Long.parseLong(element));
+                System.out.println("push: " + element);
             } else if (getType(element) == OP) {
                 n2 = stack.pop();
                 n1 = stack.pop();
                 if (element.equals("+")) {
                     result = n1 + n2;
+                    System.out.println(n1 + " + " + n2 + " = " + result);
                 } else if (element.equals("-")) {
                     result = n1 - n2;
+                    System.out.println(n1 + " - " + n2 + "=" + result);
                 } else if (element.equals("x")) {
                     result = n1 * n2;
+                    System.out.println(n1 + " x " + n2 + "=" + result);
                 }
 
                 stack.push(result);
+                System.out.println("push: " + result);
             }
         }
         return stack.pop().toString();
