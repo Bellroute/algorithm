@@ -71,6 +71,7 @@ public class Sort {
                     int temp = numbers[i];
                     numbers[i] = numbers[j];
                     numbers[j] = temp;
+                    break;
                 }
             }
         }
