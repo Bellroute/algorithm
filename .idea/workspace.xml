@@ -17,18 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon1753.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon1735.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
@@ -87,16 +75,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/CraneDollMarchine.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/CraneDollMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/code2017/ColoringBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1245#1246#0" expanded="true" />
+                <element signature="e#1273#1274#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/AbusingUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="22" selection-start-line="8" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -137,8 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/line/P6.java" />
-        <option value="$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/HotelRoom.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/RoadSearching.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/ThatSong.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/BlockGame.java" />
@@ -188,6 +195,8 @@
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1655.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon3197.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/CraneDollMarchine.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/CraneDollMachine.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/code2017/ColoringBook.java" />
       </list>
     </option>
   </component>
@@ -233,6 +242,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="kakao" type="462c0819:PsiDirectoryNode" />
+              <item name="code2017" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao" type="462c0819:PsiDirectoryNode" />
               <item name="winterIntership2019" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -253,7 +270,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598266054746" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598267650651" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -279,20 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CraneDollMachine">
-    <configuration name="BaekJoon12865" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon12865" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beckjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ColoringBook">
     <configuration name="BaekJoon1655" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon1655" />
       <module name="algorithm" />
@@ -319,15 +323,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beckjoon.Test" />
+    <configuration name="ColoringBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="beckjoon.*" />
+          <option name="PATTERN" value="programmers.kakao.code2017.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="programmers.kakao.code2017" />
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao.code2017.ColoringBook" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColoringBook.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.kakao.code2017.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programmers.kakao.code2017" />
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao.code2017.ColoringBook" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -349,11 +371,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ColoringBook" />
+        <item itemvalue="JUnit.ColoringBook.test" />
         <item itemvalue="JUnit.CraneDollMachine" />
         <item itemvalue="Application.BaekJoon3197" />
         <item itemvalue="Application.BaekJoon1655" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.BaekJoon12865" />
       </list>
     </recent_temporary>
   </component>
@@ -501,44 +523,44 @@
       <workItem from="1597128324074" duration="6195000" />
       <workItem from="1597299037646" duration="6626000" />
       <workItem from="1597720980108" duration="12380000" />
-      <workItem from="1598264790284" duration="947000" />
+      <workItem from="1598264790284" duration="2512000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="P1 - 2020.06.26 at 11h 59m 34s.xml">
-      <configuration name="P1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P1 - 2020.06.26 at 12h 03m 03s.xml">
-      <configuration name="P1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P1 - 2020.06.26 at 12h 03m 16s.xml">
-      <configuration name="P1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P1 - 2020.06.26 at 12h 03m 28s.xml">
-      <configuration name="P1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P1 - 2020.06.26 at 12h 05m 13s.xml">
-      <configuration name="P1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P1 - 2020.06.26 at 12h 05m 53s.xml">
-      <configuration name="P1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P1 - 2020.06.26 at 12h 05m 58s.xml">
-      <configuration name="P1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P1 - 2020.06.26 at 12h 12m 26s.xml">
-      <configuration name="P1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="P3 - 2020.06.26 at 12h 22m 10s.xml">
       <configuration name="P3" configurationId="JUnit" />
     </history-entry>
     <history-entry file="P3 - 2020.06.26 at 12h 22m 20s.xml">
       <configuration name="P3" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CraneDollMachine - 2020.08.24 at 19h 46m 31s.xml">
+      <configuration name="CraneDollMachine" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CraneDollMachine - 2020.08.24 at 19h 46m 46s.xml">
+      <configuration name="CraneDollMachine" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CraneDollMachine - 2020.08.24 at 19h 46m 54s.xml">
+      <configuration name="CraneDollMachine" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CraneDollMachine - 2020.08.24 at 19h 47m 12s.xml">
+      <configuration name="CraneDollMachine" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CraneDollMachine - 2020.08.24 at 19h 47m 38s.xml">
+      <configuration name="CraneDollMachine" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ColoringBook_test - 2020.08.24 at 20h 11m 29s.xml">
+      <configuration name="ColoringBook.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ColoringBook - 2020.08.24 at 20h 11m 59s.xml">
+      <configuration name="ColoringBook" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ColoringBook - 2020.08.24 at 20h 13m 12s.xml">
+      <configuration name="ColoringBook" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="707660000" />
+    <option name="totallyTimeSpent" value="709225000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -553,7 +575,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31684983" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31684983" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -562,12 +584,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.39081633" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.39081633" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.31836733" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" weight="0.31836733" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.40612245" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32959184" />
@@ -625,23 +647,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/programmers/heap/MoreSpicy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kakaoEnterprise/summer2020/Q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/kakaoEnterprise/summer2020/Q2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -1025,14 +1030,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/CraneDollMarchine.java">
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/AbusingUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        <state relative-caret-position="120">
+          <caret line="8" column="22" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/CraneDollMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/code2017/ColoringBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
+            <element signature="e#1273#1274#0" expanded="true" />
           </folding>
         </state>
       </provider>
