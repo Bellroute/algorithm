@@ -3,8 +3,9 @@ package programmers.kakao.blindRecruitment2018;
 import org.junit.Test;
 
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import static org.junit.Assert.assertEquals;
 
@@ -18,105 +19,110 @@ public class Level2_NewsClustering {
         assertEquals(65536, solution("E=M*C^2", "e=m*c^2"));
     }
 
-    @Test
-    public void 문자열_두글자씩_끊어서_다중집합원소_만들기() {
-        String str = "FRANCE";
-
-        assertEquals(5, makeMultiSet(str).size());
-    }
-
-    @Test
-    public void 문자열_두글자씩_끊을_때_특수문자_숫자_공백_버림() {
-        String str_blank = "abc def";
-        String str_digit = "abc1def";
-        String str_specialCharacter = "abc+def";
-        String str_complex = "abc+ 1def";
-
-        String[] expected = {"AB", "BC", "DE", "EF" };
-
-        assertEquals(expected.length, makeMultiSet(str_blank).size());
-        assertEquals(expected.length, makeMultiSet(str_digit).size());
-        assertEquals(expected.length, makeMultiSet(str_specialCharacter).size());
-        assertEquals(expected.length, makeMultiSet(str_complex).size());
-    }
-
-    @Test
-    public void 비교_시_대소문자_무시() {
-        String str = "FRANCE";
-
-        assertEquals(makeMultiSet(str.toLowerCase()), makeMultiSet(str));
-    }
-
-    @Test
-    public void 교집합_갯수() {
-        List<String> A = Arrays.asList("1", "2", "3", "4");
-        List<String> B = Arrays.asList("1", "2", "5", "6");
-        List<String> C = Arrays.asList("1", "1", "2", "2", "3");
-        List<String> D = Arrays.asList("1", "2", "2", "4", "5");
-        List<String> E = Arrays.asList("1", "2", "4", "5");
-
-        assertEquals(2, countIntersection(A, B));
-        assertEquals(3, countIntersection(C, D));
-        assertEquals(2, countIntersection(E, C));
-    }
-
-
-    @Test
-    public void 합집합() {
-        List<String> A = Arrays.asList("1", "2", "3", "4");
-        List<String> B = Arrays.asList("1", "2", "5", "6");
-        List<String> C = Arrays.asList("1", "1", "2", "2", "3");
-        List<String> D = Arrays.asList("1", "2", "2", "4", "5");
-
-//        assertEquals(6, countUnion(A, B));
-        assertEquals(7, countUnion(D, C));
-    }
-
-    @Test
-    public void 자카드_유사도() {
-
-    }
-
-    @Test
-    public void 유사도에_65536_곱한_뒤_소수점_버림() {
-
-    }
-
     public int solution(String str1, String str2) {
-        int answer = 0;
-        return answer;
+        List<String> str1Set = separateSet(str1);
+        List<String> str2Set = separateSet(str2);
+
+        double similarity;
+
+        if (str1Set.size() == 0 && str2Set.size() == 0) {
+            similarity = 1;
+        } else {
+            List<String> intersection = getIntersection(str1Set, str2Set);
+            List<String> union = getUnion(str1Set, str2Set);
+
+            similarity = (double) intersection.size() / (double) union.size();
+        }
+
+        return (int) Math.floor(similarity * 65536);
     }
 
-    private List<String> makeMultiSet(String str) {
-        List<String> multiSet = new ArrayList<>();
 
-        for (int i = 1; i < str.length(); i++) {
-            if (Character.isAlphabetic(str.charAt(i - 1)) && Character.isAlphabetic(str.charAt(i))) {
-                multiSet.add(str.substring(i - 1, i + 1).toUpperCase());
+    private boolean isAlphabet(char character) {
+        return (character >= 65 && character <= 90) || (character >= 97 && character <= 122);
+    }
+
+    private List<String> getIntersection(List<String> str1Set, List<String> str2Set) {
+        Map<String, Integer> map = new HashMap<>();
+
+        for (int i = 0; i < str1Set.size(); i++) {
+            map.put(str1Set.get(i), map.getOrDefault(str1Set.get(i), 0) + 1);
+        }
+
+        List<String> result = new ArrayList<>();
+
+        for (String key : map.keySet()) {
+            int count = 0;
+
+            for (int i = 0; i < str2Set.size(); i++) {
+                if (str2Set.get(i).equals(key)) {
+                    count++;
+                }
+            }
+
+            if (count > 0) {
+                count = Math.min(count, map.get(key));
+
+                for (int i = 0; i < count; i++) {
+                    result.add(key);
+                }
             }
         }
 
-        return multiSet;
+        return result;
     }
 
+    private List<String> getUnion(List<String> str1Set, List<String> str2Set) {
+        Map<String, Integer> str1Map = new HashMap<>();
 
-    private int countIntersection(List<String> list1, List<String> list2) {
-        List<String> intersectionSet = new ArrayList<>();
-
-        for (String str : list2) {
-            if (list1.contains(str)) {
-                list1.remove(str);
-            }
-
-
+        for (int i = 0; i < str1Set.size(); i++) {
+            str1Map.put(str1Set.get(i), str1Map.getOrDefault(str1Set.get(i), 0) + 1);
         }
 
-        return intersectionSet.size();
+        Map<String, Integer> str2Map = new HashMap<>();
+
+        for (int i = 0; i < str2Set.size(); i++) {
+            str2Map.put(str2Set.get(i), str2Map.getOrDefault(str2Set.get(i), 0) + 1);
+        }
+
+        List<String> result = new ArrayList<>();
+
+        for (String key : str1Map.keySet()) {
+            int count;
+
+            if (str2Map.keySet().contains(key)) {
+                count = Math.max(str1Map.get(key), str2Map.get(key));
+            } else {
+                count = str1Map.get(key);
+            }
+
+            for (int i = 0; i < count; i++) {
+                result.add(key);
+            }
+        }
+
+        for (String key : str2Map.keySet()) {
+            if (!str1Map.keySet().contains(key)) {
+                int count = str2Map.get(key);
+
+                for (int i = 0; i < count; i++) {
+                    result.add(key);
+                }
+            }
+        }
+
+        return result;
     }
 
-    private int countUnion(List<String> a, List<String> b) {
-        int count = 0;
+    private List<String> separateSet(String input) {
+        List<String> list = new ArrayList<>();
 
-        return count;
+        for (int i = 0; i < input.length() - 1; i++) {
+            if (isAlphabet(input.charAt(i)) && isAlphabet(input.charAt(i + 1))) {
+                list.add(input.substring(i, i + 2).toUpperCase());
+            }
+        }
+
+        return list;
     }
 }
