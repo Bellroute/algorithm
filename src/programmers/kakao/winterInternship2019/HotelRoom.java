@@ -1,4 +1,4 @@
-package programmers.kakao.winterIntership2019;
+package programmers.kakao.winterInternship2019;
 
 import java.util.Arrays;
 import java.util.HashMap;

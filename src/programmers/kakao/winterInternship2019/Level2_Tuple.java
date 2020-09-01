@@ -1,6 +1,4 @@
-package programmers.kakao.winterIntership2019;
-
-import org.junit.Test;
+package programmers.kakao.winterInternship2019;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package programmers.kakao.winterIntership2019;
+package programmers.kakao.winterInternship2019;
 
 import org.junit.Test;
 
