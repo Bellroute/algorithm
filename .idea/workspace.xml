@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b0f92364-52e2-4a20-b274-6d59ecbd6e31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/programmers/kakao/winterIntership2019/AbusingUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/programmers/kakao/winterIntership2019/CraneDollMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/programmers/kakao/winterIntership2019/HotelRoom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/programmers/kakao/winterIntership2019/Level2_Tuple$CompareObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/programmers/kakao/winterIntership2019/Level2_Tuple.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,39 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level1_FailureRate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_NewsClustering.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="69" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level2_CandidateKey.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_FileNameSort.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,11 +59,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/Level3_SteppingStone.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterInternship2019/Level3_SteppingStone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+            <state relative-caret-position="591">
+              <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level3_BlockMoving.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="122" column="111" selection-end-line="169" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4691#4692#0" expanded="true" />
+                <element signature="e#4784#4785#0" expanded="true" />
+                <element signature="e#1277#1278#0" expanded="true" />
+                <element signature="e#1326#1327#0" expanded="true" />
+                <element signature="e#1364#1365#0" expanded="true" />
+                <element signature="e#1417#1418#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/TargetNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/WordChange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-434">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -121,7 +129,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/AbusingUser.java">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterInternship2019/AbusingUser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="16" selection-start-line="16" selection-end-line="23" selection-end-column="5" />
@@ -160,8 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1753.java" />
-        <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1735.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon3955.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon12865.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/Main.java" />
@@ -211,6 +217,8 @@
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_NNotation.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level3_OuterWall.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/Level3_SteppingStone.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/winterInternship2019/Level3_SteppingStone.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level3_BlockMoving.java" />
       </list>
     </option>
   </component>
@@ -224,7 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,6 +255,13 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="dfs_and_bfs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="kakao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -256,7 +270,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="kakao" type="462c0819:PsiDirectoryNode" />
-              <item name="winterIntership2019" type="462c0819:PsiDirectoryNode" />
+              <item name="blindRecruitment2020" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -274,6 +288,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,7 +298,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598942619238" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599031479644" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -544,7 +559,8 @@
       <workItem from="1598680520295" duration="6016000" />
       <workItem from="1598787586727" duration="1989000" />
       <workItem from="1598844025916" duration="9397000" />
-      <workItem from="1598939432247" duration="2041000" />
+      <workItem from="1598939432247" duration="2505000" />
+      <workItem from="1599022911810" duration="6580000" />
     </task>
     <servers />
   </component>
@@ -581,7 +597,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="763436000" />
+    <option name="totallyTimeSpent" value="770480000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -596,7 +612,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34798536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35225886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -610,7 +626,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.31836733" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.31836733" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.40612245" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32959184" />
@@ -668,35 +684,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon3197.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3629#3630#0" expanded="true" />
-            <element signature="e#3686#3687#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/CraneDollMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon2667.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/observerpattern/Publisher.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/useJavaAPI/MyClassA.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/impl/MyClassA.java" />
@@ -741,7 +728,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/Level2_Tuple.java">
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterInternship2019/Level2_Tuple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
@@ -768,7 +755,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/HotelRoom.java">
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterInternship2019/HotelRoom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -880,6 +867,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level3_OuterWall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level2_Compression.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -900,7 +897,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/AbusingUser.java">
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterInternship2019/AbusingUser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="23" selection-end-column="5" />
@@ -910,20 +907,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level3_OuterWall.java">
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterInternship2019/Level3_SteppingStone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="591">
+          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/Level3_SteppingStone.java">
+    <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/TargetNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        <state relative-caret-position="434">
+          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/WordChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-434">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level3_BlockMoving.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="122" column="111" selection-end-line="169" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4691#4692#0" expanded="true" />
+            <element signature="e#4784#4785#0" expanded="true" />
+            <element signature="e#1277#1278#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1417#1418#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
