@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b0f92364-52e2-4a20-b274-6d59ecbd6e31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_SecretMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_SecretMap.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_SecretMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+            <state relative-caret-position="405">
+              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level4_FoodBroadcastLive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="46" column="16" lean-forward="true" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_DartGame.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-end-line="9" />
+              <caret line="8" column="44" selection-start-line="8" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,8 +121,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>sol</find>
-      <find>print</find>
       <find>beforeElement</find>
+      <find>print</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/programmers/hash</dir>
@@ -123,9 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon12865.java" />
-        <option value="$PROJECT_DIR$/src/beckjoon/Main.java" />
-        <option value="$PROJECT_DIR$/src/beckjoon/Test.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1655.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon3197.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/CraneDollMarchine.java" />
@@ -174,6 +182,9 @@
         <option value="$PROJECT_DIR$/src/programmers/kakao/winterInternship2019/Level3_SteppingStone.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level3_BlockMoving.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_SecretMap.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level4_EattingBrodcastLive.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level4_FoodBrodcastLive.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level4_FoodBroadcastLive.java" />
       </list>
     </option>
   </component>
@@ -218,7 +229,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="kakao" type="462c0819:PsiDirectoryNode" />
-              <item name="blindRecruitment2018" type="462c0819:PsiDirectoryNode" />
+              <item name="blindRecruitment2019" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -254,7 +265,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599099428551" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599117949088" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -280,7 +291,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Level1_SecretMap">
+  <component name="RunManager" selected="JUnit.Level4_FoodBroadcastLive">
     <configuration name="Level2_NNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2018.Level2_NNotation" />
       <module name="algorithm" />
@@ -322,22 +333,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Level2_Compression.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.kakao.blindRecruitment2019.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programmers.kakao.blindRecruitment2019" />
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2019.Level2_Compression" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Level2_FileNameSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
@@ -353,13 +348,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Level4_FoodBroadcastLive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.kakao.blindRecruitment2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programmers.kakao.blindRecruitment2019" />
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2019.Level4_FoodBroadcastLive" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Level4_FoodBroadcastLive" />
         <item itemvalue="JUnit.Level1_SecretMap" />
         <item itemvalue="Application.Level3_OuterWall" />
         <item itemvalue="Application.Level2_NNotation" />
         <item itemvalue="JUnit.Level2_FileNameSort" />
-        <item itemvalue="JUnit.Level2_Compression.test" />
       </list>
     </recent_temporary>
   </component>
@@ -517,44 +527,44 @@
       <workItem from="1598844025916" duration="9397000" />
       <workItem from="1598939432247" duration="2505000" />
       <workItem from="1599022911810" duration="7488000" />
-      <workItem from="1599098049739" duration="1074000" />
+      <workItem from="1599098049739" duration="9275000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Level2_FileNameSort - 2020.08.29 at 15h 26m 12s.xml">
-      <configuration name="Level2_FileNameSort" configurationId="JUnit" />
+    <history-entry file="Level4_FoodBroadcastLive - 2020.09.03 at 15h 49m 50s.xml">
+      <configuration name="Level4_FoodBroadcastLive" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level2_FileNameSort - 2020.08.29 at 15h 41m 32s.xml">
-      <configuration name="Level2_FileNameSort" configurationId="JUnit" />
+    <history-entry file="Level4_FoodBroadcastLive - 2020.09.03 at 15h 50m 03s.xml">
+      <configuration name="Level4_FoodBroadcastLive" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level2_FileNameSort - 2020.08.29 at 15h 48m 28s.xml">
-      <configuration name="Level2_FileNameSort" configurationId="JUnit" />
+    <history-entry file="Level4_FoodBroadcastLive - 2020.09.03 at 15h 50m 30s.xml">
+      <configuration name="Level4_FoodBroadcastLive" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level2_FileNameSort - 2020.08.29 at 15h 50m 02s.xml">
-      <configuration name="Level2_FileNameSort" configurationId="JUnit" />
+    <history-entry file="Level4_FoodBroadcastLive - 2020.09.03 at 15h 50m 49s.xml">
+      <configuration name="Level4_FoodBroadcastLive" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level2_FileNameSort - 2020.08.29 at 15h 50m 13s.xml">
-      <configuration name="Level2_FileNameSort" configurationId="JUnit" />
+    <history-entry file="Level4_FoodBroadcastLive - 2020.09.03 at 15h 50m 56s.xml">
+      <configuration name="Level4_FoodBroadcastLive" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level2_FileNameSort - 2020.08.29 at 15h 51m 25s.xml">
-      <configuration name="Level2_FileNameSort" configurationId="JUnit" />
+    <history-entry file="Level4_FoodBroadcastLive - 2020.09.03 at 15h 51m 21s.xml">
+      <configuration name="Level4_FoodBroadcastLive" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level2_FileNameSort - 2020.08.29 at 15h 54m 20s.xml">
-      <configuration name="Level2_FileNameSort" configurationId="JUnit" />
+    <history-entry file="Level4_FoodBroadcastLive - 2020.09.03 at 15h 52m 56s.xml">
+      <configuration name="Level4_FoodBroadcastLive" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level1_SecretMap - 2020.09.03 at 11h 00m 15s.xml">
-      <configuration name="Level1_SecretMap" configurationId="JUnit" />
+    <history-entry file="Level4_FoodBroadcastLive - 2020.09.03 at 16h 00m 14s.xml">
+      <configuration name="Level4_FoodBroadcastLive" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level1_SecretMap - 2020.09.03 at 11h 00m 33s.xml">
-      <configuration name="Level1_SecretMap" configurationId="JUnit" />
+    <history-entry file="Level4_FoodBroadcastLive - 2020.09.03 at 16h 00m 33s.xml">
+      <configuration name="Level4_FoodBroadcastLive" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level1_SecretMap - 2020.09.03 at 11h 12m 15s.xml">
-      <configuration name="Level1_SecretMap" configurationId="JUnit" />
+    <history-entry file="Level4_FoodBroadcastLive - 2020.09.03 at 16h 00m 51s.xml">
+      <configuration name="Level4_FoodBroadcastLive" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="772462000" />
+    <option name="totallyTimeSpent" value="780663000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -641,7 +651,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/impl/MyClassA.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/useJavaAPI/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/useJavaAPI/PlayController.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/impl/Publisher.java" />
@@ -866,7 +875,7 @@
     <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_DartGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-end-line="9" />
+          <caret line="8" column="44" selection-start-line="8" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -909,8 +918,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_SecretMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+        <state relative-caret-position="405">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level4_FoodBroadcastLive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="46" column="16" lean-forward="true" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
