@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0f92364-52e2-4a20-b274-6d59ecbd6e31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level1_StringCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level1_StringCompression.java" afterDir="false" />
-    </list>
+    <list default="true" id="b0f92364-52e2-4a20-b274-6d59ecbd6e31" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,11 +59,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level1_StringCompression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            <state relative-caret-position="-709">
+              <caret line="36" column="51" lean-forward="true" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level3_ShuttleBus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-274">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon3197.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/CraneDollMarchine.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/CraneDollMachine.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/code2017/ColoringBook.java" />
@@ -198,6 +206,7 @@
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level4_FoodBrodcastLive.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level4_FoodBroadcastLive.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level1_StringCompression.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level3_ShuttleBus.java" />
       </list>
     </option>
   </component>
@@ -243,7 +252,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="kakao" type="462c0819:PsiDirectoryNode" />
-              <item name="blindRecruitment2020" type="462c0819:PsiDirectoryNode" />
+              <item name="blindRecruitment2018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -270,7 +279,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599198106689" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599207163919" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -296,35 +305,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Level1_StringCompression.test">
-    <configuration name="Level3_OuterWall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2020.Level3_OuterWall" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.kakao.blindRecruitment2020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Level1_SecretMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.kakao.blindRecruitment2018.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programmers.kakao.blindRecruitment2018" />
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2018.Level1_SecretMap" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Level3_ShuttleBus.test">
     <configuration name="Level1_StringCompression" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
@@ -356,6 +337,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Level3_ShuttleBus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.kakao.blindRecruitment2018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programmers.kakao.blindRecruitment2018" />
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2018.Level3_ShuttleBus" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Level3_ShuttleBus.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.kakao.blindRecruitment2018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programmers.kakao.blindRecruitment2018" />
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2018.Level3_ShuttleBus" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Level4_FoodBroadcastLive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
@@ -373,11 +385,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Level3_ShuttleBus.test" />
+        <item itemvalue="JUnit.Level3_ShuttleBus" />
         <item itemvalue="JUnit.Level1_StringCompression.test" />
         <item itemvalue="JUnit.Level1_StringCompression" />
         <item itemvalue="JUnit.Level4_FoodBroadcastLive" />
-        <item itemvalue="JUnit.Level1_SecretMap" />
-        <item itemvalue="Application.Level3_OuterWall" />
       </list>
     </recent_temporary>
   </component>
@@ -536,44 +548,44 @@
       <workItem from="1598939432247" duration="2505000" />
       <workItem from="1599022911810" duration="7488000" />
       <workItem from="1599098049739" duration="10317000" />
-      <workItem from="1599193001874" duration="4610000" />
+      <workItem from="1599193001874" duration="10043000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Level1_StringCompression_test - 2020.09.04 at 14h 09m 03s.xml">
-      <configuration name="Level1_StringCompression.test" configurationId="JUnit" />
+    <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 01m 48s.xml">
+      <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level1_StringCompression_test - 2020.09.04 at 14h 09m 26s.xml">
-      <configuration name="Level1_StringCompression.test" configurationId="JUnit" />
+    <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 02m 14s.xml">
+      <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level1_StringCompression_test - 2020.09.04 at 14h 10m 13s.xml">
-      <configuration name="Level1_StringCompression.test" configurationId="JUnit" />
+    <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 02m 30s.xml">
+      <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level1_StringCompression_test - 2020.09.04 at 14h 10m 50s.xml">
-      <configuration name="Level1_StringCompression.test" configurationId="JUnit" />
+    <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 03m 26s.xml">
+      <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level1_StringCompression - 2020.09.04 at 14h 25m 01s.xml">
-      <configuration name="Level1_StringCompression" configurationId="JUnit" />
+    <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 03m 56s.xml">
+      <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level1_StringCompression - 2020.09.04 at 14h 26m 15s.xml">
-      <configuration name="Level1_StringCompression" configurationId="JUnit" />
+    <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 05m 03s.xml">
+      <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level1_StringCompression - 2020.09.04 at 14h 34m 56s.xml">
-      <configuration name="Level1_StringCompression" configurationId="JUnit" />
+    <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 05m 13s.xml">
+      <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level1_StringCompression - 2020.09.04 at 14h 36m 42s.xml">
-      <configuration name="Level1_StringCompression" configurationId="JUnit" />
+    <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 05m 23s.xml">
+      <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level1_StringCompression - 2020.09.04 at 14h 36m 50s.xml">
-      <configuration name="Level1_StringCompression" configurationId="JUnit" />
+    <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 05m 53s.xml">
+      <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level1_StringCompression - 2020.09.04 at 14h 37m 52s.xml">
-      <configuration name="Level1_StringCompression" configurationId="JUnit" />
+    <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 06m 25s.xml">
+      <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="786315000" />
+    <option name="totallyTimeSpent" value="791748000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,7 +672,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/useJavaAPI/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/useJavaAPI/PlayController.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/impl/Publisher.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/impl/Test.java" />
@@ -940,8 +951,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level1_StringCompression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        <state relative-caret-position="-709">
+          <caret line="36" column="51" lean-forward="true" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level3_ShuttleBus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
