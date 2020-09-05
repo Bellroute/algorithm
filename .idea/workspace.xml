@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0f92364-52e2-4a20-b274-6d59ecbd6e31" name="Default Changelist" comment="" />
+    <list default="true" id="b0f92364-52e2-4a20-b274-6d59ecbd6e31" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_Cache.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +17,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_SecretMap.java">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level2_BracketChange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="345">
+              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_Cache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="24" selection-start-line="24" selection-end-line="25" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,18 +53,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_DartGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/TargetNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
@@ -62,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level1_StringCompression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-709">
-              <caret line="36" column="51" lean-forward="true" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+            <state relative-caret-position="396">
+              <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level3_ShuttleBus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-274">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="456">
+              <caret line="97" column="34" lean-forward="true" selection-start-line="97" selection-start-column="34" selection-end-line="102" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -156,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/CraneDollMarchine.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/winterIntership2019/CraneDollMachine.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/code2017/ColoringBook.java" />
         <option value="$PROJECT_DIR$/src/observerpattern/PlayController.java" />
@@ -207,6 +208,7 @@
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level4_FoodBroadcastLive.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level1_StringCompression.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level3_ShuttleBus.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_Cache.java" />
       </list>
     </option>
   </component>
@@ -259,6 +261,14 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao" type="462c0819:PsiDirectoryNode" />
+              <item name="blindRecruitment2020" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="winterCoding2019" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -279,7 +289,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599207163919" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599287822649" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -305,7 +315,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Level3_ShuttleBus.test">
+  <component name="RunManager" selected="JUnit.Level2_Cache">
     <configuration name="Level1_StringCompression" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
@@ -333,6 +343,21 @@
       <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2020.Level1_StringCompression" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Level2_Cache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.kakao.blindRecruitment2018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programmers.kakao.blindRecruitment2018" />
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2018.Level2_Cache" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -368,28 +393,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Level4_FoodBroadcastLive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.kakao.blindRecruitment2019.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programmers.kakao.blindRecruitment2019" />
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2019.Level4_FoodBroadcastLive" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Level2_Cache" />
         <item itemvalue="JUnit.Level3_ShuttleBus.test" />
         <item itemvalue="JUnit.Level3_ShuttleBus" />
         <item itemvalue="JUnit.Level1_StringCompression.test" />
         <item itemvalue="JUnit.Level1_StringCompression" />
-        <item itemvalue="JUnit.Level4_FoodBroadcastLive" />
       </list>
     </recent_temporary>
   </component>
@@ -548,17 +558,11 @@
       <workItem from="1598939432247" duration="2505000" />
       <workItem from="1599022911810" duration="7488000" />
       <workItem from="1599098049739" duration="10317000" />
-      <workItem from="1599193001874" duration="10043000" />
+      <workItem from="1599193001874" duration="11608000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 01m 48s.xml">
-      <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 02m 14s.xml">
-      <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 02m 30s.xml">
       <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
     </history-entry>
@@ -583,9 +587,15 @@
     <history-entry file="Level3_ShuttleBus_test - 2020.09.04 at 17h 06m 25s.xml">
       <configuration name="Level3_ShuttleBus.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Level2_Cache - 2020.09.05 at 15h 32m 04s.xml">
+      <configuration name="Level2_Cache" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level2_Cache - 2020.09.05 at 15h 32m 42s.xml">
+      <configuration name="Level2_Cache" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="791748000" />
+    <option name="totallyTimeSpent" value="793313000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -672,7 +682,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/useJavaAPI/PlayController.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/impl/Publisher.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/impl/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/adapterpattern/case1/Test.java" />
@@ -865,16 +874,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level2_BracketChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-695">
-          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_SecretMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -949,20 +948,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level1_StringCompression.java">
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level3_ShuttleBus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-709">
-          <caret line="36" column="51" lean-forward="true" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+        <state relative-caret-position="456">
+          <caret line="97" column="34" lean-forward="true" selection-start-line="97" selection-start-column="34" selection-end-line="102" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level3_ShuttleBus.java">
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level1_StringCompression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-274">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="396">
+          <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level2_BracketChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="24" selection-start-line="24" selection-end-line="25" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
