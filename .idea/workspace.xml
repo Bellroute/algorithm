@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0f92364-52e2-4a20-b274-6d59ecbd6e31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/programmers/kakao/blindRecruitment2018/Level2_Friends4Blocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/programmers/kakao/blindRecruitment2018/Level2_Friends4Blocks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/programmers/kakao/blindRecruitment2019/Level3_MatchingScore$WebPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/programmers/kakao/blindRecruitment2019/Level3_MatchingScore$WebPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/programmers/kakao/blindRecruitment2019/Level3_MatchingScore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/programmers/kakao/blindRecruitment2019/Level3_MatchingScore.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,37 +31,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level4_FoodBroadcastLive.java">
+        <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/WordChange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-424">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level1_StringCompression.java">
+        <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/TargetNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="486">
+              <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level3_ShuttleBus.java">
+        <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/Network.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1455">
-              <caret line="97" column="34" selection-start-line="97" selection-start-column="34" selection-end-line="102" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-103">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -67,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_Friends4Blocks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="381">
+              <caret line="97" column="37" lean-forward="true" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2412#2413#0" expanded="true" />
@@ -78,10 +71,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/internship2020/Level3_RacingRoad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1961#1962#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level3_MatchingScore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+            <state relative-caret-position="290">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,8 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/observerpattern/Test.java" />
-        <option value="$PROJECT_DIR$/src/observerpattern/useJavaAPI/MyClassB.java" />
         <option value="$PROJECT_DIR$/src/observerpattern/impl/Observer.java" />
         <option value="$PROJECT_DIR$/src/observerpattern/impl/MyClassA.java" />
         <option value="$PROJECT_DIR$/src/observerpattern/impl/MyClassB.java" />
@@ -204,6 +208,8 @@
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level3_PillarAndBeam.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_Friends4Blocks.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level3_MatchingScore.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/internship2020/Level3_RacingLoad.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/internship2020/Level3_RacingRoad.java" />
       </list>
     </option>
   </component>
@@ -241,6 +247,13 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="dfs_and_bfs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="kakao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -249,7 +262,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="kakao" type="462c0819:PsiDirectoryNode" />
-              <item name="blindRecruitment2019" type="462c0819:PsiDirectoryNode" />
+              <item name="internship2020" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -276,7 +289,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599486302454" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599571782839" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -547,17 +560,11 @@
       <workItem from="1599098049739" duration="10317000" />
       <workItem from="1599193001874" duration="17002000" />
       <workItem from="1599371358802" duration="9034000" />
-      <workItem from="1599464734786" duration="10015000" />
+      <workItem from="1599464734786" duration="13651000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Level3_MatchingScore - 2020.09.07 at 19h 52m 29s.xml">
-      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level3_MatchingScore - 2020.09.07 at 19h 54m 16s.xml">
-      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Level3_MatchingScore - 2020.09.07 at 19h 56m 11s.xml">
       <configuration name="Level3_MatchingScore" configurationId="JUnit" />
     </history-entry>
@@ -582,9 +589,15 @@
     <history-entry file="Level3_MatchingScore - 2020.09.07 at 22h 32m 45s.xml">
       <configuration name="Level3_MatchingScore" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Level3_MatchingScore - 2020.09.07 at 22h 43m 05s.xml">
+      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level3_MatchingScore - 2020.09.07 at 22h 45m 06s.xml">
+      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="817760000" />
+    <option name="totallyTimeSpent" value="821396000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -599,7 +612,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36935288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36935288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -608,12 +621,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.39081633" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.39081633" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" weight="0.31836733" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.31836733" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.40612245" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32959184" />
@@ -671,8 +684,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/designpattern/adapterpattern/case2/APlayerImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/designpattern/adapterpattern/case2/BPlayer.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/adapterpattern/case1/BPlayerImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/adapterpattern/case1/BPlayer.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/adapterpattern/case1/BToAAdapter.java" />
@@ -864,20 +875,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/TargetNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/WordChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2020/Level2_BracketChange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -995,17 +992,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_Friends4Blocks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2412#2413#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1015,10 +1001,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level3_MatchingScore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+        <state relative-caret-position="290">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level2_Friends4Blocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="97" column="37" lean-forward="true" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2412#2413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/WordChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-424">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/Network.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/dfs_and_bfs/TargetNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/internship2020/Level3_RacingRoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1961#1962#0" expanded="true" />
           </folding>
         </state>
       </provider>
