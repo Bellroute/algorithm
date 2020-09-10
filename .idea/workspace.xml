@@ -88,13 +88,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao/internship2020/Level4_CaveAdventure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+            <state relative-caret-position="523">
+              <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level4_AutoCompletion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#1658#1659#0" expanded="true" />
+                <element signature="e#1708#1709#0" expanded="true" />
+                <element signature="e#1754#1755#0" expanded="true" />
+                <element signature="e#1822#1823#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,8 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/observerpattern/impl/Test.java" />
-        <option value="$PROJECT_DIR$/src/observerpattern/impl/PlayController.java" />
         <option value="$PROJECT_DIR$/src/designpattern/observerpattern/impl/PlayController.java" />
         <option value="$PROJECT_DIR$/src/designpattern/adapterpattern/APlayer.java" />
         <option value="$PROJECT_DIR$/src/designpattern/adapterpattern/APlayerImpl.java" />
@@ -191,6 +209,8 @@
         <option value="$PROJECT_DIR$/src/programmers/kakao/internship2020/Level4_CaveAdvanture.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/internship2020/Level4_CaveAdv3nture.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/internship2020/Level4_CaveAdventure.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level4_AutoSearch.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level4_AutoCompletion.java" />
       </list>
     </option>
   </component>
@@ -243,7 +263,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="kakao" type="462c0819:PsiDirectoryNode" />
-              <item name="blindRecruitment2020" type="462c0819:PsiDirectoryNode" />
+              <item name="blindRecruitment2018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -278,7 +298,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599643596905" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599714794874" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -304,7 +324,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Level3_MatchingScore">
+  <component name="RunManager" selected="JUnit.Level4_AutoCompletion">
     <configuration name="Level2_Cache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
@@ -366,7 +386,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Level3_ShuttleBus.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Level4_AutoCompletion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -375,20 +395,19 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="programmers.kakao.blindRecruitment2018" />
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2018.Level3_ShuttleBus" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao.blindRecruitment2018.Level4_AutoCompletion" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Level4_AutoCompletion" />
         <item itemvalue="JUnit.Level3_MatchingScore" />
         <item itemvalue="JUnit.Level2_ThatSong.test" />
         <item itemvalue="JUnit.Level2_ThatSong" />
         <item itemvalue="JUnit.Level2_Cache" />
-        <item itemvalue="JUnit.Level3_ShuttleBus.test" />
       </list>
     </recent_temporary>
   </component>
@@ -549,44 +568,44 @@
       <workItem from="1599098049739" duration="10317000" />
       <workItem from="1599193001874" duration="17002000" />
       <workItem from="1599371358802" duration="9034000" />
-      <workItem from="1599464734786" duration="23770000" />
+      <workItem from="1599464734786" duration="26009000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Level3_MatchingScore - 2020.09.07 at 19h 56m 11s.xml">
-      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level3_MatchingScore - 2020.09.07 at 22h 13m 59s.xml">
-      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level3_MatchingScore - 2020.09.07 at 22h 14m 13s.xml">
-      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level3_MatchingScore - 2020.09.07 at 22h 25m 25s.xml">
-      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level3_MatchingScore - 2020.09.07 at 22h 27m 01s.xml">
-      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level3_MatchingScore - 2020.09.07 at 22h 27m 36s.xml">
-      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level3_MatchingScore - 2020.09.07 at 22h 27m 51s.xml">
-      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level3_MatchingScore - 2020.09.07 at 22h 32m 45s.xml">
-      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level3_MatchingScore - 2020.09.07 at 22h 43m 05s.xml">
-      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Level3_MatchingScore - 2020.09.07 at 22h 45m 06s.xml">
       <configuration name="Level3_MatchingScore" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Level3_MatchingScore - 2020.09.10 at 14h 08m 05s.xml">
+      <configuration name="Level3_MatchingScore" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level4_AutoCompletion - 2020.09.10 at 14h 08m 11s.xml">
+      <configuration name="Level4_AutoCompletion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level4_AutoCompletion - 2020.09.10 at 14h 08m 45s.xml">
+      <configuration name="Level4_AutoCompletion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level4_AutoCompletion - 2020.09.10 at 14h 09m 00s.xml">
+      <configuration name="Level4_AutoCompletion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level4_AutoCompletion - 2020.09.10 at 14h 09m 17s.xml">
+      <configuration name="Level4_AutoCompletion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level4_AutoCompletion - 2020.09.10 at 14h 10m 18s.xml">
+      <configuration name="Level4_AutoCompletion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level4_AutoCompletion - 2020.09.10 at 14h 10m 43s.xml">
+      <configuration name="Level4_AutoCompletion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level4_AutoCompletion - 2020.09.10 at 14h 11m 40s.xml">
+      <configuration name="Level4_AutoCompletion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level4_AutoCompletion - 2020.09.10 at 14h 11m 55s.xml">
+      <configuration name="Level4_AutoCompletion" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="831515000" />
+    <option name="totallyTimeSpent" value="833754000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -610,12 +629,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.39081633" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.39081633" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.31836733" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" weight="0.31836733" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.40612245" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32959184" />
@@ -673,7 +692,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/designpattern/adapterpattern/case1/BToAAdapter.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/adapterpattern/case2/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/adapterpattern/case1/APlayerImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/designpattern/observerpattern/useJavaAPI/MyClassB.java" />
@@ -1048,10 +1066,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/kakao/internship2020/Level4_CaveAdventure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+        <state relative-caret-position="523">
+          <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level4_AutoCompletion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#1658#1659#0" expanded="true" />
+            <element signature="e#1708#1709#0" expanded="true" />
+            <element signature="e#1754#1755#0" expanded="true" />
+            <element signature="e#1822#1823#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
