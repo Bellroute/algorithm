@@ -130,6 +130,7 @@ public class BaekJoon9376 {
     }
 
     private static int[][] bfs(Point point) {
+        Queue<Point> queue = new LinkedList<>();
         visited = new boolean[h + 2][w + 2];
         int[][] dists = new int[h + 2][w + 2];
         visited[point.x][point.y] = true;
@@ -140,7 +141,6 @@ public class BaekJoon9376 {
 
         dists[point.x][point.y] = 0;
 
-        Queue<Point> queue = new LinkedList<>();
         queue.offer(point);
 
         while (!queue.isEmpty()) {
