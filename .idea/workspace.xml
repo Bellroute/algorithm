@@ -114,15 +114,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon9576.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="49" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="49" />
+            <state relative-caret-position="675">
+              <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2150#2151#0" expanded="true" />
                 <element signature="e#2182#2183#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon13305.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,7 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2018/Level1_SecretMap.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level4_EattingBrodcastLive.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level4_FoodBrodcastLive.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao/blindRecruitment2019/Level4_FoodBroadcastLive.java" />
@@ -208,6 +219,7 @@
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1715.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon1202.java" />
         <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon9576.java" />
+        <option value="$PROJECT_DIR$/src/beckjoon/BaekJoon13305.java" />
       </list>
     </option>
   </component>
@@ -270,7 +282,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600755154404" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600761640551" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -297,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BaekJoon9576">
+  <component name="RunManager" selected="Application.BaekJoon13305">
     <configuration name="BaekJoon10815" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon10815" />
       <module name="algorithm" />
@@ -324,8 +336,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekJoon1715" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon1715" />
+    <configuration name="BaekJoon13305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon13305" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -337,8 +349,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekJoon2110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon2110" />
+    <configuration name="BaekJoon1715" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beckjoon.BaekJoon1715" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -365,11 +377,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaekJoon13305" />
         <item itemvalue="Application.BaekJoon9576" />
         <item itemvalue="Application.BaekJoon1202" />
         <item itemvalue="Application.BaekJoon1715" />
         <item itemvalue="Application.BaekJoon10815" />
-        <item itemvalue="Application.BaekJoon2110" />
       </list>
     </recent_temporary>
   </component>
@@ -531,7 +543,7 @@
       <workItem from="1599193001874" duration="17002000" />
       <workItem from="1599371358802" duration="9034000" />
       <workItem from="1599464734786" duration="59775000" />
-      <workItem from="1600328345486" duration="37547000" />
+      <workItem from="1600328345486" duration="41357000" />
     </task>
     <servers />
   </component>
@@ -568,7 +580,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="905067000" />
+    <option name="totallyTimeSpent" value="908877000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -655,18 +667,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/programmers/kakao/internship2020/Level3_RacingRoad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1949#1950#0" expanded="true" />
-            <element signature="e#2006#2007#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/kakao/internship2020/Level3_JewelryShopping.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1073,12 +1073,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon9576.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="49" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="49" />
+        <state relative-caret-position="675">
+          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2150#2151#0" expanded="true" />
             <element signature="e#2182#2183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beckjoon/BaekJoon13305.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
