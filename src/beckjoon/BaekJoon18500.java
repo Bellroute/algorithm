@@ -16,7 +16,6 @@ public class BaekJoon18500 {
     private static int[] tries;
     private static int[] x_move = {1, 0, -1, 0};
     private static int[] y_move = {0, 1, 0, -1};
-    private static int min;
     private static boolean[][] visited;
     private static boolean[][] checked;
 
@@ -47,28 +46,38 @@ public class BaekJoon18500 {
         }
 
         for (int i = 0; i < N; i++) {
-            min = Integer.MAX_VALUE;
             throwStick(i);
 
             visited = new boolean[R][C];
             checkFloor();
+
+            boolean flag = false;
 
             for (int j = 0; j < R; j++) {
                 for (int k = 0; k < C; k++) {
                     if (map[j][k] == 'x' && !visited[j][k]) {
                         checked = new boolean[R][C];
                         downClusters(findMinLength(j, k));
+
+                        flag = true;
+                        break;
                     }
                 }
-            }
-        }
 
-        for (int j = 0; j < R; j++) {
-            for (int k = 0; k < C; k++) {
-                System.out.print(map[j][k]);
+                if (flag) {
+                    break;
+                }
+            }
+
+            for (int j = 0; j < R; j++) {
+                for (int k = 0; k < C; k++) {
+                    System.out.print(map[j][k]);
+                }
+                System.out.println();
             }
             System.out.println();
         }
+
     }
 
     private static void downClusters(int height) {
@@ -95,8 +104,8 @@ public class BaekJoon18500 {
             int length = (R - 1) - point.x;
 
             for (int i = x; i < R; i++) {
-                if (visited[i][y]) {
-                    min -= (R - 1) - i;
+                if (visited[i][point.y]) {
+                    length -= R - i;
                     break;
                 }
             }
