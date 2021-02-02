@@ -1,7 +1,7 @@
 # 리트코드 46. Permutations
 
 from typing import List
-from itertools
+import itertools
 
 
 class Solution:
