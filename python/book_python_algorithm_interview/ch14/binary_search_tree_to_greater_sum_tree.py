@@ -13,13 +13,15 @@ class TreeNode:
 
 
 class Solution:
+    val: int = 0
+
     def bstToGst(self, root: TreeNode) -> TreeNode:
         if not root:
             return
 
         root.right = self.bstToGst(root.right)
-        root.val += root.right.val
-        root.left.val += root.val
-        root.left = self.bstToGst(root.left)
+        self.val += root.val
+        root.val = self.val
+        self.bstToGst(root.left)
 
         return root
