@@ -11,13 +11,13 @@ class Tree_mySolution:
 
 class Trie_mySolution:
     def __init__(self):
-        self.root = Tree()
+        self.root = Tree_mySolution()
 
     def insert(self, word: str) -> None:
         node = self.root
         while word:
             if word[0] not in node.children:
-                node.children[word[0]] = Tree(word[0])
+                node.children[word[0]] = Tree_mySolution(word[0])
             node.count += 1
             node = node.children[word[0]]
             word = word[1:]
